@@ -66,6 +66,33 @@
 
 <br>
 
+---
+
+## 🚀 GitHub Stats
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=gokwatnenpin-dotcom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  alt="Ziggy's GitHub Stats"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokwatnenpin-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+  alt="Most Used Languages"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-streak-stats.demolab.com?user=gokwatnenpin-dotcom&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
 <a href="https://ziggy-portfolio-dev.vercel.app/">
 
 <img src="https://img.shields.io/badge/⚡%20ziggy--portfolio--dev.vercel.app-00F7FF?style=for-the-badge&labelColor=111111" alt="Ziggy Portfolio">

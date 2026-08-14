@@ -1,43 +1,28 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+stuff+and+breaking+things+%F0%9F%94%A8;Frontend+%C2%B7+Bots+%C2%B7+Linux;JavaScript+%2F%2F+always+learning" alt="Typing SVG" />
+# Frontend · Bots · Linux
 
-<br/>
+<br>
 
-![Snake animation](https://github.com/gokwatnenpin-dotcom/gokwatnenpin-dotcom/blob/output/github-contribution-grid-snake-dark.svg)
+<a href="https://ziggy-portfolio-dev.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-Visit%20My%20Portfolio-00F7FF?style=for-the-badge" alt="My Portfolio">
+</a>
+
+<a href="https://github.com/gokwatnenpin-dotcom">
+  <img src="https://img.shields.io/badge/GITHUB-Visit%20GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gokwatnenpin-dotcom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gokwatnenpin-dotcom&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokwatnenpin-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="140" />
-
-</div>
-
----
 
 ### 🛠️ Stack
 
-<div align="center">
+<br>
 
-<img src="https://skillicons.dev/icons?i=js,react,python,linux,tailwind,nodejs,git,github,vite,html,css&perline=6" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gokwatnenpin-dotcom&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://skillicons.dev/icons?i=js,react,python,linux,tailwind,nodejs,git,github,vite,html,css&perline=6" alt="My Tech Stack">
 
 </div>
 
@@ -45,6 +30,73 @@
 
 <div align="center">
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=gokwatnenpin-dotcom&color=00f7ff&style=flat-square&label=profile+views)
+### 📊 GitHub Stats
+
+<br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=gokwatnenpin-dotcom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="165"
+  alt="GitHub Stats"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<br>
+
+<img
+  src="https://streak-stats.demolab.com?user=gokwatnenpin-dotcom&theme=tokyonight&hide_border=true"
+  height="165"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 My Portfolio
+
+<br>
+
+<a href="https://ziggy-portfolio-dev.vercel.app/">
+
+<img src="https://img.shields.io/badge/⚡%20ziggy--portfolio--dev.vercel.app-00F7FF?style=for-the-badge&labelColor=111111" alt="Ziggy Portfolio">
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+<br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=gokwatnenpin-dotcom&color=00F7FF&style=flat-square&label=profile+views"
+  alt="Profile Views"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Building stuff and breaking things 🔨**
+
+<br>
+
+Frontend · Linux · JavaScript
 
 </div>

@@ -1,18 +1,16 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B46,100:00F7FF&height=180&section=header&text=ZIGGY&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20things%20for%20the%20web%20and%20beyond&descSize=15&descAlignY=60" width="100%" alt="Ziggy animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B46,100:00F7FF&height=180&section=header&text=ZIGGY&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Backend%20%7C%20Linux&descSize=16&descAlignY=60" width="100%" alt="Ziggy header"/>
 
-<a href="https://ziggy-portfolio-dev.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;Backend+%26+API+Explorer;Linux+%26+Open+Source+Enthusiast;Building+stuff+and+breaking+things" alt="Animated typing introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=550&lines=JavaScript+%7C+Python+%7C+Lua;React+%7C+Next.js+%7C+Node.js;Docker+%7C+Redis+%7C+Supabase;Building+stuff+and+breaking+things" alt="Animated introduction"/>
 
 <br/>
 
 <a href="https://ziggy-portfolio-dev.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/MY%20PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 <a href="https://github.com/gokwatnenpin-dotcom">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -21,18 +19,11 @@
 
 ## `$ whoami`
 
-```bash
-> developer
-> learning by building
-> breaking things and fixing them
-> exploring software engineering
-```
+I'm a developer interested in building useful software, understanding how systems work and exploring different areas of software engineering.
 
-I'm a developer interested in building useful things, understanding how software works behind the scenes, and constantly exploring new technologies.
+I work across frontend development, backend technologies, APIs, automation and Linux environments.
 
-I work across frontend development, backend integrations, automation and Linux environments.
-
-**Currently focused on:** Building projects, improving my engineering skills and learning how systems work under the hood.
+Currently learning, experimenting and building things that challenge me.
 
 ---
 
@@ -40,41 +31,46 @@ I work across frontend development, backend integrations, automation and Linux e
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=js,python,lua&perline=5" alt="JavaScript, Python and Lua"/>
 
-### Frontend
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&perline=6" alt="React, Next.js, Tailwind CSS, Vite, HTML and CSS"/>
 
-### Backend & Infrastructure
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,docker,redis,supabase" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,redis,supabase,express&perline=5" alt="Node.js, Redis, Supabase and Express"/>
 
-### Tools & Environment
+### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,vercel,java" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,bash&perline=5" alt="Docker, Linux and Bash"/>
 
-### Payments & APIs
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=5" alt="Git, GitHub, VS Code and Vercel"/>
+
+### APIs & Payments
 
 <img src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=paystack&logoColor=white" alt="Paystack"/>
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth"/>
+<img src="https://img.shields.io/badge/Supabase%20Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase Auth"/>
 
 </div>
 
 ---
 
-## 🧰 Things I've Been Working With
+## 🧰 What I Work With
 
-- **Frontend:** React, JavaScript, Tailwind CSS and Vite.
-- **Backend:** Node.js, REST APIs and authentication.
-- **Databases & Caching:** Supabase and Redis.
+- **Languages:** JavaScript, Python, Lua.
+- **Frontend:** React, Next.js, Tailwind CSS, Vite.
+- **Backend:** Node.js, Express, REST APIs.
+- **Databases:** Redis, Supabase.
 - **Payments:** Paystack integrations.
-- **Infrastructure:** Docker and Linux.
-- **Development:** Git, GitHub, WSL and Python.
-- **Automation & AI:** API integrations and AI-assisted development.
+- **Infrastructure:** Docker, Linux, WSL.
+- **Tools:** Git, GitHub, VS Code, Vercel.
+- **Other:** Authentication, API integrations, automation and AI development.
 
 ---
 
@@ -82,28 +78,28 @@ I work across frontend development, backend integrations, automation and Linux e
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokwatnenpin-dotcom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokwatnenpin-dotcom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokwatnenpin-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokwatnenpin-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=gokwatnenpin-dotcom&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=gokwatnenpin-dotcom&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🌐 Find Me Around The Internet
+## 🌐 Find Me
 
 <div align="center">
 
 <a href="https://ziggy-portfolio-dev.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio website"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 
 <a href="https://github.com/gokwatnenpin-dotcom">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -116,10 +112,10 @@ I work across frontend development, backend integrations, automation and Linux e
 
 <div align="center">
 
-### Building stuff and breaking things. 🔨
+**Building stuff and breaking things. 🔨**
 
-**Frontend · Backend · Linux · Everything in between.**
+Frontend · Backend · Linux · Everything in between.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:003B46,100:0D1117&height=100&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:003B46,100:0D1117&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
